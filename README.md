@@ -1,5 +1,5 @@
 # open-source-models
-Open Source Model Usages
+Open Source Model Usages  
 This notebook does the following: 
 1. Implements a basic ai chatbot with model:'facebook/blenderbot-400M-distill'
 2. Implements a translator using the model:'facebook/nllb-200-distilled-600M'
