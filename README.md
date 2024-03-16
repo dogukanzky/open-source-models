@@ -6,3 +6,5 @@ This notebook does the following:
 3. Implements a summarizer using the model:'facebook/bart-large-cnn'
 4. Implements a sentence similarity finder by embedding the strings and using the model:'all-MiniLM-L6-v2'
 5. Implements a sound similarity finder by using zero-shot classifier and the model:'laion/clap-htsat-unfused'
+6. Text2Speech by using the model:'kakao-enterprise/vits-ljs'
+   
